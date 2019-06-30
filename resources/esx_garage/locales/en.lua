@@ -1,5 +1,5 @@
 Locales['en'] = {
-	['veh_released'] = 'the vehicle has been ~g~released',
-	['veh_stored'] = 'the vehicle has been ~g~stored',
-	['veh_health'] = 'you\'ll have to repair the vehicle before storing it.',
+	['veh_released'] = 'el vehiculo a sido ~g~liberado',
+	['veh_stored'] = 'el vehiculo a sido ~g~guardado',
+	['veh_health'] = 'tendras que reparar el vehiculo antes de guardarlo.',
 }
