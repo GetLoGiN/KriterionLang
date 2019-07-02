@@ -1,6 +1,6 @@
 Locales['en'] = {
-  ['skin_menu'] = 'Skin Menu',
-  ['use_rotate_view'] = 'use ~INPUT_VEH_FLY_ROLL_LEFT_ONLY~ and ~INPUT_VEH_FLY_ROLL_RIGHT_ONLY~ to rotate the view.',
-  ['skin'] = 'change skin',
-  ['saveskin'] = 'save skin to a file',
+  ['skin_menu'] = 'Menu de Skin ',
+  ['use_rotate_view'] = 'usa ~INPUT_VEH_FLY_ROLL_LEFT_ONLY~ y ~INPUT_VEH_FLY_ROLL_RIGHT_ONLY~ para girar la vista.',
+  ['skin'] = 'cambiar de skin',
+  ['saveskin'] = 'guardar skin en un archivo',
 }
