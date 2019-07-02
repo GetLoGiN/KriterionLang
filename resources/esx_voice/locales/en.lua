@@ -1,6 +1,6 @@
 Locales ['en'] = {
-  ['voice']   = '~y~Voice: ~s~%s',
+  ['voice']   = '~y~Voz: ~s~%s',
   ['normal']  = 'normal',
-  ['shout']   = 'shout',
-  ['whisper'] = 'whisper',
+  ['shout']   = 'grito',
+  ['whisper'] = 'susurro',
 }
