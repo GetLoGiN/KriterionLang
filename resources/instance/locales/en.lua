@@ -1,8 +1,8 @@
 Locales['en'] = {
-  ['left_instance'] = 'you have left the instance',
-  ['invite_expired'] = 'invite expired',
-  ['press_to_enter'] = 'press ~INPUT_CONTEXT~ to enter the instance',
-  ['entered_instance'] = 'you entered the instance',
-  ['entered_into'] = '%s entered the instance',
-  ['left_out'] = '%s left the instance',
+  ['left_instance'] = 'has dejado la instancia',
+  ['invite_expired'] = 'la invitacion a expirado',
+  ['press_to_enter'] = 'precione ~INPUT_CONTEXT~ para entrar a la instancia',
+  ['entered_instance'] = 'has entrado a la instancia',
+  ['entered_into'] = '%s entro a la instancia',
+  ['left_out'] = '%s dejo la instancia',
 }
