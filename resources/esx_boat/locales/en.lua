@@ -1,7 +1,7 @@
 Locales['en'] = {
   -- tienda
   ['boat_shop'] = 'tienda de bote',
-  ['boat_shop_open'] = 'preciona ~INPUT_CONTEXT~ para acceder a la ~y~tienda de botes~s~.',
+  ['boat_shop_open'] = 'presiona ~INPUT_CONTEXT~ para acceder a la ~y~tienda de botes~s~.',
   ['boat_shop_confirm'] = 'compra <span style="color: yellow;">%s</span> por <span style="color: orange;">$%s</span>?',
   ['boat_shop_bought'] = 'tu has ~y~comprado~s~ un ~b~%s~s~ por ~g~$%s~s~',
   ['boat_shop_nomoney'] = 'no te ~r~alcansa~s~ para este bote!',
@@ -10,8 +10,8 @@ Locales['en'] = {
 
   -- garaje
   ['garage'] = 'garaje de bote',
-  ['garage_open'] = 'preciona ~INPUT_CONTEXT~ para acceder al ~y~garaje de bote~s~.',
-  ['garage_store'] = 'preciona ~INPUT_CONTEXT~ para ~y~guardar~s~ el bote en tu garaje.',
+  ['garage_open'] = 'presiona ~INPUT_CONTEXT~ para acceder al ~y~garaje de bote~s~.',
+  ['garage_store'] = 'presiona ~INPUT_CONTEXT~ para ~y~guardar~s~ el bote en tu garaje.',
   ['garage_taken'] = 'el barco a sido sacado!',
   ['garage_stored'] = 'el bote a se a guardado con seguridad en tu garaje!',
   ['garage_noboats'] = 'tu no tienes ningun barco guardado, Visita la ~y~tienda de botes~s~ para comprar uno.',
